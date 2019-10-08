@@ -114,8 +114,8 @@ function say_hi() {
  
 document.getElementById('say').addEventListener('click', say_hi);
 </script>
-    <script src="https://www.gstatic.com/firebasejs/6.4.0/firebase-app.js"></script>
-    <script src="https://www.gstatic.com/firebasejs/3.1.0/firebase-database.js"></script>
-    <script src="alvis.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.1.0/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.1.0/firebase-analytics.js"></script>
+    <script src="app.js"></script>
     
 </body></html>
